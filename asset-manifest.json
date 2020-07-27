@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.5f361e03.chunk.css",
-    "main.js": "/static/js/main.24402926.chunk.js",
-    "main.js.map": "/static/js/main.24402926.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.21838e15.js",
-    "runtime-main.js.map": "/static/js/runtime-main.21838e15.js.map",
-    "static/js/2.8d5c0cfb.chunk.js": "/static/js/2.8d5c0cfb.chunk.js",
-    "static/js/2.8d5c0cfb.chunk.js.map": "/static/js/2.8d5c0cfb.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.049bf51638b2089779e9fc2a5215ac6d.js": "/precache-manifest.049bf51638b2089779e9fc2a5215ac6d.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.8d5c0cfb.chunk.js.LICENSE.txt": "/static/js/2.8d5c0cfb.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/static/media/logo.5d5d9eef.svg"
+    "main.css": "/react-ecommerce-website/static/css/main.5f361e03.chunk.css",
+    "main.js": "/react-ecommerce-website/static/js/main.5a7fa71e.chunk.js",
+    "main.js.map": "/react-ecommerce-website/static/js/main.5a7fa71e.chunk.js.map",
+    "runtime-main.js": "/react-ecommerce-website/static/js/runtime-main.36a201a7.js",
+    "runtime-main.js.map": "/react-ecommerce-website/static/js/runtime-main.36a201a7.js.map",
+    "static/js/2.8d5c0cfb.chunk.js": "/react-ecommerce-website/static/js/2.8d5c0cfb.chunk.js",
+    "static/js/2.8d5c0cfb.chunk.js.map": "/react-ecommerce-website/static/js/2.8d5c0cfb.chunk.js.map",
+    "index.html": "/react-ecommerce-website/index.html",
+    "precache-manifest.3c4260f9dc6f1edb9a25a8e6ba38b00d.js": "/react-ecommerce-website/precache-manifest.3c4260f9dc6f1edb9a25a8e6ba38b00d.js",
+    "service-worker.js": "/react-ecommerce-website/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/react-ecommerce-website/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.8d5c0cfb.chunk.js.LICENSE.txt": "/react-ecommerce-website/static/js/2.8d5c0cfb.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/react-ecommerce-website/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.21838e15.js",
+    "static/js/runtime-main.36a201a7.js",
     "static/js/2.8d5c0cfb.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.24402926.chunk.js"
+    "static/js/main.5a7fa71e.chunk.js"
   ]
 }
