@@ -11,9 +11,9 @@ function App() {
     <div>
       <Header/>
       <Switch>
-        <Route exact path='/' component={Homepage} />
-        <Route path='/shop' component={Shoppage} />
-        <Route path='/signin' component={SignInAndSignUp} />
+        <Route exact path='/react-ecommerce-website' component={Homepage} />
+        <Route path='/react-ecommerce-website/shop' component={Shoppage} />
+        <Route path='/react-ecommerce-website/signin' component={SignInAndSignUp} />
       </Switch>
     </div>
   );
