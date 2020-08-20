@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/react-ecommerce-website/static/css/main.260f62d9.chunk.css",
-    "main.js": "/react-ecommerce-website/static/js/main.a83ba6fa.chunk.js",
-    "main.js.map": "/react-ecommerce-website/static/js/main.a83ba6fa.chunk.js.map",
+    "main.css": "/react-ecommerce-website/static/css/main.9e38b49d.chunk.css",
+    "main.js": "/react-ecommerce-website/static/js/main.66844856.chunk.js",
+    "main.js.map": "/react-ecommerce-website/static/js/main.66844856.chunk.js.map",
     "runtime-main.js": "/react-ecommerce-website/static/js/runtime-main.36a201a7.js",
     "runtime-main.js.map": "/react-ecommerce-website/static/js/runtime-main.36a201a7.js.map",
-    "static/js/2.13306312.chunk.js": "/react-ecommerce-website/static/js/2.13306312.chunk.js",
-    "static/js/2.13306312.chunk.js.map": "/react-ecommerce-website/static/js/2.13306312.chunk.js.map",
+    "static/js/2.755c631e.chunk.js": "/react-ecommerce-website/static/js/2.755c631e.chunk.js",
+    "static/js/2.755c631e.chunk.js.map": "/react-ecommerce-website/static/js/2.755c631e.chunk.js.map",
     "index.html": "/react-ecommerce-website/index.html",
-    "precache-manifest.71d6ac73f726d0bd2a4cf2c8ca842547.js": "/react-ecommerce-website/precache-manifest.71d6ac73f726d0bd2a4cf2c8ca842547.js",
+    "precache-manifest.31acc730bf78e931fdbeb1ada0a65f0e.js": "/react-ecommerce-website/precache-manifest.31acc730bf78e931fdbeb1ada0a65f0e.js",
     "service-worker.js": "/react-ecommerce-website/service-worker.js",
-    "static/css/main.260f62d9.chunk.css.map": "/react-ecommerce-website/static/css/main.260f62d9.chunk.css.map",
-    "static/js/2.13306312.chunk.js.LICENSE.txt": "/react-ecommerce-website/static/js/2.13306312.chunk.js.LICENSE.txt",
+    "static/css/main.9e38b49d.chunk.css.map": "/react-ecommerce-website/static/css/main.9e38b49d.chunk.css.map",
+    "static/js/2.755c631e.chunk.js.LICENSE.txt": "/react-ecommerce-website/static/js/2.755c631e.chunk.js.LICENSE.txt",
     "static/media/crown.ed28accb.svg": "/react-ecommerce-website/static/media/crown.ed28accb.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.36a201a7.js",
-    "static/js/2.13306312.chunk.js",
-    "static/css/main.260f62d9.chunk.css",
-    "static/js/main.a83ba6fa.chunk.js"
+    "static/js/2.755c631e.chunk.js",
+    "static/css/main.9e38b49d.chunk.css",
+    "static/js/main.66844856.chunk.js"
   ]
 }
